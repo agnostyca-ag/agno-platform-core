@@ -1,0 +1,6 @@
+[submodule "dag-engines/hornet-l1"]
+	path = dag-engines/hornet-l1
+	url = https://github.com/agnostyca-ag/agno-hornet-l1.git
+[submodule "dag-engines/wasp-l2"]
+	path = dag-engines/wasp-l2
+	url = https://github.com/agnostyca-ag/agno-wasp-l2.git

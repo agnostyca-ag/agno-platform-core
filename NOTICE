@@ -1,0 +1,39 @@
+# AGNO Platform Core - Third Party Licenses
+
+## Apache License 2.0 Components
+
+This software contains components licensed under the Apache License 2.0:
+
+### IOTA Hornet (L1 DAG Node)
+- **Source**: https://github.com/iotaledger/hornet
+- **Copyright**: Copyright (c) 2020-2024 IOTA Foundation
+- **License**: Apache License 2.0
+- **Location**: `dag-engines/hornet-l1/`
+
+### IOTA Wasp (L2 Smart Contract Platform)  
+- **Source**: https://github.com/iotaledger/wasp
+- **Copyright**: Copyright (c) 2020-2024 IOTA Foundation
+- **License**: Apache License 2.0
+- **Location**: `dag-engines/wasp-l2/`
+
+## AGNO Platform Proprietary Components
+
+The following components are proprietary to Agnostyca AG:
+
+- AGNO Address System (`agno-address-system/`)
+- AGNO AI Engine (`agno-ai-engine/`)
+- AGNO Smart Contracts (`agno-contracts/`)
+- Integration Layer and Configuration
+- Documentation and Architecture
+
+## Full License Texts
+
+Full license texts for all components can be found in:
+- Apache 2.0: `dag-engines/hornet-l1/LICENSE` and `dag-engines/wasp-l2/LICENSE`
+- AGNO Proprietary: Contact Agnostyca AG for licensing terms
+
+---
+
+**Agnostyca AG**  
+Commercial blockchain infrastructure  
+Built on open-source IOTA technology
